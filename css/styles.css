@@ -490,7 +490,7 @@ legend+* {
 [type="url"],
 [type="email"],
 [type="number"] {
-  direction: ltr;
+    direction: ltr;
 }
 */
 ::-webkit-search-decoration {
